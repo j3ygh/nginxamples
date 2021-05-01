@@ -2,7 +2,7 @@
  Examples of Nginx configuration.
 
 # 1. Config with Django & Vue.js
-_Replace each `f'{variable_name}'` with what make sense to you._
+_Replace each `f'{variable_name}'` with what makes sense to you._
 ```
 # /etc/nginx/sites-enabled/djangovue.conf
 
