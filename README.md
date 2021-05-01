@@ -1,7 +1,7 @@
 # nginxamples
  Examples of Nginx configuration.
 
-# Config with Django & Vue.js
+# 1. Config with Django & Vue.js
 ```
 # /etc/nginx/sites-enabled/djangovue.conf
 
